@@ -17,14 +17,19 @@ header {
   background-color: red;
 }
 .NavList {
-  width:100%;
+  width:60%;
+  height:100%;
   list-style-type: none;
+  margin:0;
+  margin-left: auto -40px;
+  margin-right:auto;
+  background-color:yellow;
 }
 .SmallTab {
-  
+  float:left;
 }
 .LargeTab {
-  
+  float:left;
 }
 .main {
   width: 100%;
