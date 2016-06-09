@@ -4,8 +4,7 @@ html {
 }
 body {
   margin:0;
-  margin left: auto; 
-  margin right: auto;
+  margin-left, margin-right: auto;
   background-color: blue;
   width: 1000px;
   height: 1000px;
