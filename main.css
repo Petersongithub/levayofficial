@@ -1,1 +1,11 @@
-
+html {
+  margin:0;
+  background-color: gray;
+}
+body {
+  margin:0;
+  margin left, margin right: auto;
+  background-color: blue;
+  width: 1000px;
+  height: 1000px;
+}
