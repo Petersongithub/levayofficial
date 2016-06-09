@@ -27,9 +27,15 @@ header {
 }
 .SmallTab {
   float:left;
+  background-color: blue;
+  height: 20px;
+  width:20%;
 }
 .LargeTab {
   float:left;
+  background-color: white;
+  height: 80px;
+  width:20%;
 }
 .main {
   width: 100%;
