@@ -31,7 +31,6 @@ header {
   text-align: center;
   font-family: "Futura";
   font-weight: lighter;
-  letter-spacing: 1px;
   color: #FFFFFF;
 }
 .SmallTab {
@@ -41,6 +40,7 @@ header {
   width:20%;
   margin:0;
   margin-top:73px;
+  letter-spacing: 1px;
 }
 .LargeTab {
   float:left;
