@@ -58,7 +58,7 @@ header {
 .content {
   background-color:yellow;
   border: 10px solid black;
-  border-top: 10px solid white;
+  border-top: 3px solid white;
   height:90%;
   width: 90%;
   margin-left:auto;
