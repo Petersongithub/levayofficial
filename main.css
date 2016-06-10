@@ -37,6 +37,8 @@ header {
   background-color: blue;
   height: 20px;
   width:20%;
+  margin:0;
+  margin-top:80px;
 }
 .LargeTab {
   float:left;
