@@ -1,8 +1,7 @@
 var main = function() {
-  /*var header = $('<header></header>').prepend('body');
-  var NavBar = $('<div></div>').addClass('Navbar').prepend($header);
-  var NavList = $('<ul></ul>').addClass('NavList').prepend($NavBar);
-  var VideosTab = $('<li></li>').addClass('SmallTab').append($NavList).text("Videos");*/
-  var test = $('<li>').addClass('SmallTab').appendTo('.NavList').text("test");
+  var header = $('<header>').prependTo('body');
+  var NavBar = $('<div>').addClass('Navbar').prependTo($header);
+  var NavList = $('<ul>').addClass('NavList').prependTo($NavBar);
+  var VideosTab = $('<li>').addClass('SmallTab').appendTo($NavList).text("Videos");
 };
 $(document).ready(main);
