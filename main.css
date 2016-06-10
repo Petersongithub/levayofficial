@@ -102,13 +102,13 @@ header {
 }
 .Music {
   float:right;
-  width:100px;
-  height:100px;
+  width:303px;
+  height:180px;
   background-color:white;
   margin:10px;
 }
 .About {
-  float:left;
+  float:right;
   width:303px;
   height:130px;
   background-color: white;
