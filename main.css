@@ -56,7 +56,6 @@ header {
   background-color: green;
 }
 .content {
-  background-color:yellow;
   border: 20px solid black;
   border-top: 5px solid white;
   border-bottom: 5px solid white;
@@ -64,10 +63,11 @@ header {
   width: 95%;
   margin-left:auto;
   margin-right:auto;
+  color: #000000;
 }
 footer {
   margin:0;
   width:100%;
   height: 100px;
-  background-color: blue;
+  color: #000000;
 }
