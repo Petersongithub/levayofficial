@@ -10,7 +10,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: #000000;
-  opacity: 0.95;
+  opacity: 0.8;
   width: 800px;
   height: 1000px;
 }
@@ -43,6 +43,7 @@ header {
   padding-bottom:3px;
   width:20%;
   margin:0;
+  opacity: 1;
   margin-top:73px;
   letter-spacing: 1px;
 }
@@ -51,6 +52,7 @@ header {
   background-color: white;
   height: 80px;
   width:20%;
+  opacity: 1;
   margin-top:10px;
   margin-bottom:10px;
 }
@@ -64,6 +66,7 @@ header {
   border-bottom: 5px solid white;
   height:98.75%;
   width: 95%;
+  opacity: 1;
   margin-left:auto;
   margin-right:auto;
   color: #000000;
