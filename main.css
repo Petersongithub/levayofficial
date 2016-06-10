@@ -58,7 +58,7 @@ header {
   height: 80%;
 }
 .content {
-  border: 20px solid black;
+  border: 20px solid rgba(0,0,0,0.8);
   border-top: 5px solid white;
   border-bottom: 5px solid white;
   height:98.75%;
