@@ -114,6 +114,16 @@ header {
   background-color: white;
   margin:10px;
 }
+.AboutLeft {
+  height:100%;
+  width:100px;
+  background-color:red;
+}
+.AboutRight {
+  height:100%;
+  width:203px;
+  background-color:yellow;
+}
 .Shop {
   float:left;
   width:588px;
