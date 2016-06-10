@@ -111,20 +111,18 @@ header {
   float:right;
   width:303px;
   height:130px;
-  background-color: white;
   margin:10px;
 }
 .AboutLeft {
   float:left;
   height:100%;
   width:70px;
-  background-color:red;
 }
 .AboutRight {
   float:left;
   height:100%;
   width:233px;
-  background-color:yellow;
+  background-color:white;
 }
 .Shop {
   float:left;
