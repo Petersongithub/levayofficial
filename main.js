@@ -1,5 +1,5 @@
 var main = function() {
-  create();
+  create($PageTop);
 };
 var create = function() {
     var $PageTop = $(<header>
@@ -14,6 +14,6 @@ var create = function() {
           <li class="SmallTab">Shop</li>
         </ul>
       </div>
-    </header>)
+    </header>);
   };
 $(document).ready(main);
