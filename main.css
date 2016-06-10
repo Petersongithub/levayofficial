@@ -55,6 +55,11 @@ header {
   height: 80%;
   background-color: green;
 }
+.content {
+  background-color:yellow;
+  border: 10px solid black;
+  border-top: 10px solid white;
+}
 footer {
   margin:0;
   width:100%;
