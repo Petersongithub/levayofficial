@@ -152,5 +152,6 @@ footer {
   float:left;
   font-family:"Futura";
   border-bottom:2px solid black;
-  margin:2px;
+  margin:5px;
+  font-size:12px;
 }
