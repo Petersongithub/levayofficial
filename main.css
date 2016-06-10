@@ -115,11 +115,13 @@ header {
   margin:10px;
 }
 .AboutLeft {
+  float:left;
   height:100%;
   width:100px;
   background-color:red;
 }
 .AboutRight {
+  float:left;
   height:100%;
   width:203px;
   background-color:yellow;
