@@ -148,7 +148,8 @@ footer {
 }
 .BottomNavList li {
   text-align:center;
-  padding:3px;
+  padding-left:3px;
+  padding-right:3px;
   float:left;
   font-family:"Futura";
   border-bottom:2px solid black;
