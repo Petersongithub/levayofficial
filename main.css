@@ -139,7 +139,7 @@ footer {
   color: #000000;
 }
 .FooterLeft {
-  width:45%;
+  width:50%;
   height:100%;
 }
 .BottomNavList {
@@ -147,6 +147,8 @@ footer {
   list-style-type:none;
 }
 .BottomNavList li {
+  text-align:center;
+  width:50px;
   float:left;
   font-family:"Futura";
   border-bottom:2px solid black;
