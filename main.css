@@ -96,8 +96,8 @@ header {
 }
 .Gallery {
   float:left;
-  width:100px;
-  height:100px;
+  width:350px;
+  height:150px;
   background-color: white;
   margin:10px;
 }
