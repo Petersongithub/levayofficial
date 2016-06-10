@@ -78,6 +78,7 @@ header {
 .BoxList {
   margin:0;
   margin-left:-40px;
+  list-style-type: none;
 }
 .Videos {
   width:100px;
