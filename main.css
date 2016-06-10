@@ -59,6 +59,10 @@ header {
   background-color:yellow;
   border: 10px solid black;
   border-top: 10px solid white;
+  height:90%;
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
 }
 footer {
   margin:0;
