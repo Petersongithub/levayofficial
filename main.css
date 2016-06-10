@@ -69,10 +69,8 @@ header {
 }
 .contentBox {
   width:80%;
-  height:100%;
-  margin:0;
-  margin-left:auto;
-  margin-right:auto;
+  height:80%;
+  margin:auto;
   background-color:red;
 }
 .BoxList {
