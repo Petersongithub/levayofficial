@@ -80,7 +80,28 @@ header {
   list-style-type: none;
 }
 .Videos {
+  float:left;
   width:100px;
+  height:100px;
+  background-color: white;
+}
+.Gallery {
+  float:left;
+  width:100px;
+  height:100px;
+  background-color: white;
+}
+.About {
+  float:left;
+  width:100px;
+  height:100px;
+  background-color: white;
+}
+.Shop {
+  float:left;
+  width:100px;
+  height:100px;
+  background-color: white;
 }
 footer {
   margin:0;
