@@ -1,6 +1,7 @@
 html {
   margin:0;
   background-image: url("SmokeBackground.png");
+  background-position: center;
 }
 body {
   margin:0;
