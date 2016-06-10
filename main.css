@@ -2,6 +2,7 @@ html {
   margin:0;
   background-image: url("SmokeBackground.png");
   background-position: center;
+  background-repeat: no-repeat;
 }
 body {
   margin:0;
