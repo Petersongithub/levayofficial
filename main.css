@@ -45,6 +45,8 @@ header {
   background-color: white;
   height: 80px;
   width:20%;
+  margin-top:10px;
+  margin-bottom:10px;
 }
 .main {
   width: 100%;
