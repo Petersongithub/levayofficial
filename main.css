@@ -141,11 +141,9 @@ footer {
 .FooterLeft {
   width:45%;
   height:100%;
-  background-color:yellow;
 }
 .BottomNavList {
   margin:0;
-  margin-left:-40px;
   list-style-type:none;
 }
 .BottomNavList li {
