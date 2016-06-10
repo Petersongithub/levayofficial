@@ -77,6 +77,7 @@ header {
   margin:0;
   margin-left:-40px;
   list-style-type: none;
+  color:white;
 }
 .Videos {
   float:left;
@@ -116,7 +117,7 @@ header {
   float:left;
   height:100%;
   width:70px;
-  color:white;
+  color:black;
 }
 .AboutRight {
   float:left;
