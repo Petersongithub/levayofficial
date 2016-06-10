@@ -84,24 +84,28 @@ header {
   width:100px;
   height:100px;
   background-color: white;
+  margin:10px;
 }
 .Gallery {
   float:left;
   width:100px;
   height:100px;
   background-color: white;
+  margin:10px;
 }
 .About {
   float:left;
   width:100px;
   height:100px;
   background-color: white;
+  margin:10px;
 }
 .Shop {
   float:left;
   width:100px;
   height:100px;
   background-color: white;
+  margin:10px;
 }
 footer {
   margin:0;
