@@ -83,7 +83,7 @@ header {
 .Videos {
   float:left;
   width:350px;
-  height:350px;
+  height:265px;
   background-color: white;
   margin:10px;
 }
@@ -97,7 +97,7 @@ header {
 .Gallery {
   float:left;
   width:350px;
-  height:180px;
+  height:265px;
   background-color: white;
   margin:10px;
 }
