@@ -1,4 +1,4 @@
 var main = function() {
-  var test = $('<div>').addClass('content').text("test");
+  var test = $('<h1>').text("test");
 };
 $(document).ready(main);
