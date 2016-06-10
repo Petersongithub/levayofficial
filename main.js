@@ -1,5 +1,7 @@
 var main = function() {
-  var create = function() {
+  create();
+};
+var create = function() {
     var $PageTop = $(<header>
       <div class="Navbar">
         <ul class="NavList">
@@ -14,5 +16,4 @@ var main = function() {
       </div>
     </header>)
   };
-};
 $(document).ready(main);
