@@ -30,6 +30,7 @@ header {
   list-style-type: none;
   margin:0;
   margin-left: -40px;
+  text-align: center;
 }
 .SmallTab {
   float:left;
