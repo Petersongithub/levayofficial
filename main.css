@@ -56,7 +56,7 @@ header {
   width:70px;
   margin-top:15px;
   margin-bottom:15px;
-  border: 5px hidden;
+  border: 5px solid rgba(0,0,0,0);
 }
 .LargeTab:hover {
   border: 5px solid black;
