@@ -170,3 +170,14 @@ footer {
   height:100%;
   background-color:red;
 }
+.SocMedIcons {
+  list-style-type:none;
+  margin-left:-40px;
+}
+.SocMedIcons li {
+  float:right;
+}
+.SocMedIcons img {
+  width:50px;
+  height:50px;
+}
