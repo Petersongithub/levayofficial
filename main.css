@@ -47,8 +47,9 @@ header {
   letter-spacing: 1px;
 }
 .SmallTab:hover {
-  border-bottom: 5px solid #cc0000;
-  color: #cc0000;
+  border-bottom: 5px solid white;
+  color: white;
+  background-color: black;
 }
 .LargeTab {
   float:left;
