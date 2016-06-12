@@ -52,11 +52,13 @@ header {
 }
 .LargeTab {
   float:left;
-  background-color: black;
-  height: 80px;
-  width:80px;
-  margin-top:10px;
-  margin-bottom:10px;
+  height: 70px;
+  width:70px;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.LargeTab:hover {
+  border: 5px solid black;
 }
 .main {
   width: 100%;
