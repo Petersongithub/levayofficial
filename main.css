@@ -178,6 +178,7 @@ footer {
   float:right;
 }
 .SocMedIcons img {
-  width:50px;
-  height:50px;
+  width:20px;
+  height:20px;
+  margin:5px;
 }
