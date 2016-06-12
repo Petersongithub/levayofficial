@@ -173,6 +173,7 @@ footer {
   list-style-type:none;
   margin:0;
   margin-left:-40px;
+  margin-right:40px;
 }
 .SocMedIcons li {
   float:right;
