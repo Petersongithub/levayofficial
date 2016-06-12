@@ -148,6 +148,7 @@ footer {
 .FooterLeft {
   width:50%;
   height:100%;
+  float:left;
 }
 .BottomNavList {
   margin:0;
@@ -162,4 +163,10 @@ footer {
   border-bottom:2px solid black;
   margin:5px;
   font-size:12px;
+}
+.FooterRight {
+  float:left;
+  width:50%;
+  height:100%;
+  background-color:red;
 }
