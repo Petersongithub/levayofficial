@@ -82,14 +82,12 @@ header {
   height:745px;
   margin:auto;
   margin-top:45px;
-  background-color:yellow;
 }
 .GalleryContentBox {
   width:95%;
   height:1000px;
   margin:auto;
   margin-top:45px;
-  background-color:red;
 }
 .BoxList {
   margin:0;
@@ -155,7 +153,6 @@ footer {
   width:100%;
   height: 100px;
   color: #000000;
-  background-color:green;
 }
 .FooterLeft {
   width:50%;
