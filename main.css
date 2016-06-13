@@ -199,6 +199,8 @@ footer {
   font-family: "Futura";
   font-weight:normal;
   font-size:20px;
+  letter-spacing:2px;
+  width:760px;
   padding:3px;
   border-bottom:3px solid black;
   margin:0;
