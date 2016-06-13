@@ -65,7 +65,7 @@ header {
 }
 .main {
   width: 100%;
-  height: 800px;
+  /*height: 800px;*/
 }
 .content {
   border: 20px solid rgba(0,0,0,0);
