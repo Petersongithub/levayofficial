@@ -198,7 +198,9 @@ footer {
 .GalleryList {
   margin:0;
   margin-left:-160px;
+  margin-bottom:45px;
   width:1000px;
+  height:auto;
   list-style-type:none;
 }
 .GalleryItem {
