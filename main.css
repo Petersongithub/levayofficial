@@ -197,10 +197,8 @@ footer {
 }
 .GalleryList {
   margin:0;
-  margin-left:-40px;
+  margin-left:-160px;
   list-style-type:none;
-  width:100%;
-  height:100%;
 }
 .GalleryItem {
   float:left;
