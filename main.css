@@ -82,6 +82,11 @@ header {
   margin:auto;
   margin-top:45px;
 }
+.GalleryContentBox {
+  width:95%;
+  margin:auto;
+  margin-top:45px;
+}
 .BoxList {
   margin:0;
   margin-left:-40px;
