@@ -195,6 +195,15 @@ footer {
   margin:5px;
   border-radius: 3px;
 }
+.ContentTitle {
+  font-family: "Futura";
+  font-weight:normal;
+  font-size:20px;
+  padding:3px;
+  border-bottom:3px solid black;
+  margin:0;
+  margin-bottom:10px;
+}
 .GalleryList {
   margin:0;
   margin-left:-110px;
