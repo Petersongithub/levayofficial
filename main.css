@@ -204,9 +204,8 @@ footer {
 }
 .GalleryItem {
   float:left;
-  width:200px;
-  height:200px;
-  margin:5px;
+  width:400px;
+  height:400px;
   background-color:black;
   color:white;
 }
